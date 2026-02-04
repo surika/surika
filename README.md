@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 🤔 My research focuses on building **socially intelligent AI systems** that truly understand and support humans.
+
 🏠 I have updated my profile at https://biguanqun.github.io.
 
 Let's connect! ✨
